@@ -1,5 +1,5 @@
-<H3>Name : Rahul V</H3>
-<H3>Register no: 212223240133</H3>
+<H3>Name : Rithish P</H3>
+<H3>Register no: 212223230173</H3>
 <H3>EX. NO.5</H3>
 <H3>DATE:27.04.25</H3>
 <H1 ALIGN =CENTER> Implementation of Kalman Filter</H1>
@@ -66,6 +66,5 @@ plt.show()
 
 <H3>Results:</H3>
 Thus, Kalman filter is implemented to predict the next position and   velocity in Python
-
 
 
